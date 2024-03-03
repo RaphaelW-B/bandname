@@ -1,0 +1,8 @@
+print("Gutten Tag! \n Welcome to the the Band Name Generator!\n No Royalties needed.\n")
+street = input("What city did you grew up in?\n")
+pet = input("What is the name of your pet?\n")
+crush = input("What is the name of your most unusual celebrity crush?\n")
+
+print("Your band name could be " + street + " " + pet)
+print("Your mascot could be "+ crush + " ")
+
